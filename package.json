@@ -1,0 +1,21 @@
+{
+  "name": "scicity",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.1"
+  },
+  "dependencies": {
+    "gsap": "3.12.5",
+    "postprocessing": "6.35.4",
+    "realism-effects": "1.1.2",
+    "screen-space-reflections": "2.5.0",
+    "three": "0.162.0"
+  }
+}
